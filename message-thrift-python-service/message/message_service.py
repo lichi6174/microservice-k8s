@@ -27,22 +27,21 @@ class MessageServiceHandler:
             smtpObj = smtplib.SMTP('smtp.163.com')
             smtpObj.login(sender, authCode)
             smtpObj.sendmail(sender, [email], messageObj.as_string())
-            print ("send Email success")
+            print ("send mail success")
             return True
-        except smtplib.SMTPException, ex:
-            print ("send email failed!")
-            print ex
+        except smtplib.SMTPException:
+            print ("send mail failed!")
             return False
 
 
 if __name__ == '__main__':
     handler = MessageServiceHandler()
     processor = MessageService.Processor(handler)
-    transport = TSocket.TServerSocket("localhost", "9090")
+    transport = TSocket.TServerSocket(None, "9090")
     tfactory = TTransport.TFramedTransportFactory()
     pfactory = TBinaryProtocol.TBinaryProtocolFactory()
 
     server = TServer.TSimpleServer(processor, transport, tfactory, pfactory)
-    print "python thrift server start"
+    print ("python thrift server start")
     server.serve()
-    print "python thritf server exit"
+    print ("python thrift server exit")
