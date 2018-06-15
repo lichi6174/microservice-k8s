@@ -1,9 +1,9 @@
 version: '3'
 
-networks:
-  default:
-    external:
-      name: imooc-network
+#networks:
+#  default:
+#    external:
+#      name: imooc-network
 
 services:
   message-service:

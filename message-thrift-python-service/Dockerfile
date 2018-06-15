@@ -1,4 +1,4 @@
-FROM python-base:latest
+FROM 192.168.2.192/microservice/python-base:latest
 MAINTAINER xxx xxx@imooc.com
 
 ENV PYTHONPATH /

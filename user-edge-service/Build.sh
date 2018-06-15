@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
-docker build -t user-edge-service:latest .
+docker build -t 192.168.2.192/microservice/user-edge-service:latest .
+docker push 192.168.2.192/microservice/user-edge-service:latest

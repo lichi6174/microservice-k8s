@@ -1,4 +1,4 @@
-FROM python:3.6
+FROM 192.168.2.192/microservice/python:3.6
 MAINTAINER xxx xxx@imooc.com
 
 RUN pip install -i https://mirrors.aliyun.com/pypi/simple thrift
