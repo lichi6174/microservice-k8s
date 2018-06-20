@@ -8,6 +8,9 @@ import org.springframework.stereotype.Component;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+/**
+ * Created by Michael on 2017/11/4.
+ */
 @Component
 public class CourseFilter extends LoginFilter {
 

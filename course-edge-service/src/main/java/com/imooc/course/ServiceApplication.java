@@ -9,6 +9,9 @@ import org.springframework.context.annotation.Bean;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Created by Michael on 2017/10/28.
+ */
 @SpringBootApplication
 public class ServiceApplication {
 
