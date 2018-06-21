@@ -47,6 +47,9 @@ services:
     image: 192.168.2.192/microservice/course-edge-service:latest
     deploy:
       endpoint_mode: vip
+      replicas: 2
+      restart_policy:
+        condition: on-failure
       resources:
         limits:
           cpus: "0.2"
@@ -64,7 +67,7 @@ services:
           cpus: "0.2"
           memory: "512M"
     ports:
-      - "80:80"
+      - "8080:80"
     depends_on:
       - user-edge-service
       - course-edge-service
