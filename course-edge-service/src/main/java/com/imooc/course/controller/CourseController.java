@@ -12,9 +12,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import javax.servlet.http.HttpServletRequest;
 import java.util.List;
 
-/**
- * Created by Michael on 2017/11/4.
- */
+
 @Controller
 @RequestMapping("/course")
 public class CourseController {
