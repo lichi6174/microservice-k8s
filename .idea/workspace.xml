@@ -1,0 +1,1560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="248a0fdd-a9e9-4fe9-86d9-12fb1f58d770" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/message-thrift-service-api/target/" />
+    <ignored path="$PROJECT_DIR$/user-thrift-service-api/target/" />
+    <ignored path="$PROJECT_DIR$/user-thrift-service/target/" />
+    <ignored path="$PROJECT_DIR$/user-edge-service/target/" />
+    <ignored path="$PROJECT_DIR$/user-edge-service-client/target/" />
+    <ignored path="$PROJECT_DIR$/course-dubbo-service-api/target/" />
+    <ignored path="$PROJECT_DIR$/course-dubbo-service/target/" />
+    <ignored path="$PROJECT_DIR$/course-edge-service/target/" />
+    <ignored path="$PROJECT_DIR$/api-gateway-zuul/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/microservice$message_service.coverage" NAME="message_service Coverage Results" MODIFIED="1528859017259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/message-thrift-python-service/message" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user-thrift-service/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="57" lean-forward="false" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CourseFilter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/course-edge-service/src/main/java/com/imooc/course/filter/CourseFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+              <folding>
+                <element signature="e#520#521#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user-service.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user-service.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="41" column="29" lean-forward="false" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/course-dubbo-service/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api-gateway-zuul/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="51" lean-forward="false" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="api-gateway.yaml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/api-gateway.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="411">
+              <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServiceApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/course-edge-service/src/main/java/com/imooc/course/ServiceApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="16" column="62" lean-forward="false" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+              <folding>
+                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#536#537#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/course-edge-service/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="message_service.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/message-thrift-python-service/message/message_service.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="46" column="39" lean-forward="false" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user-edge-service/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>server</find>
+      <find>application</find>
+      <find>application.properties</find>
+      <find>maven-compiler-plugin</find>
+      <find>maven-compliler-plugin</find>
+      <find>org.springframework.boot</find>
+      <find>spring-boot-starter</find>
+      <find>mybatis-spring-boot-starter</find>
+      <find>user-thrift-service-api</find>
+      <find>1.7.6</find>
+      <find>relativePath</find>
+      <find>8082</find>
+      <find>127.0.0.1</find>
+      <find>thrift.transport</find>
+      <find>http://www.mooc.com</find>
+      <find>mooc.com</find>
+      <find>user.edge.service.addr</find>
+      <find>www.mooc</find>
+      <find>courseList</find>
+      <find>courseService</find>
+      <find>token</find>
+      <find>Bean</find>
+      <find>zookeeper</find>
+      <find>courseList()</find>
+      <find>userEdgeServiceAddr</find>
+      <find>lb.mooc.com</find>
+      <find>hub.mooc.com:8080</find>
+      <find>micro-service</find>
+      <find>10005</find>
+      <find>www.mooc.com</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>192.168.2.192</replace>
+      <replace>microservice</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Administrator\IdeaProjects\imooc\microservice\user-edge-service-client</dir>
+      <dir>C:\Users\Administrator\IdeaProjects\imooc\microservice\api-gateway-zuul</dir>
+      <dir>C:\Users\Administrator\IdeaProjects\imooc\microservice</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/course-dubbo-service-api/src/main/java/com/imooc/course/service/dto/DTO.java" />
+        <option value="$PROJECT_DIR$/course-dubbo-service-api/src/main/java/com/imooc/course/service/service/ICourseService.java" />
+        <option value="$PROJECT_DIR$/course-dubbo-service-api/src/main/java/com/imooc/course/service/dto/CourseDTO.java" />
+        <option value="$PROJECT_DIR$/user-thrift-service-api/thrift/user_service.thrift" />
+        <option value="$PROJECT_DIR$/user-thrift-service-api/src/main/java/com/imooc/thrift/user/dto/TeacherDTO.java" />
+        <option value="$PROJECT_DIR$/course-dubbo-service/pom.xml" />
+        <option value="$PROJECT_DIR$/course-dubbo-service/src/main/java/com/imooc/course/mapper/CourseMapper.java" />
+        <option value="$PROJECT_DIR$/course-dubbo-service/src/main/java/com/imooc/course/service/CourseServiceImpl.java" />
+        <option value="$PROJECT_DIR$/user-thrift-service/src/main/java/com/imooc/user/service/UserSerivceImpl.java" />
+        <option value="$PROJECT_DIR$/user-thrift-service/src/main/java/com/imooc/user/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/course-dubbo-service/src/main/java/com/imooc/course/service/ServiceProvider.java" />
+        <option value="$PROJECT_DIR$/user-thrift-service/src/main/java/com/imooc/user/ServiceApplication.java" />
+        <option value="$PROJECT_DIR$/course-edge-service/pom.xml" />
+        <option value="$PROJECT_DIR$/course-dubbo-service/src/main/java/com/imooc/course/ServiceApplication.java" />
+        <option value="$PROJECT_DIR$/api-gateway-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/api-gateway-zuul/src/main/java/com/imooc/zuul/ServiceApplication.java" />
+        <option value="$PROJECT_DIR$/user-thrift-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/message-thrift-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/user-edge-service-client/pom.xml" />
+        <option value="$PROJECT_DIR$/user-thrift-service/pom.xml" />
+        <option value="$PROJECT_DIR$/message-thrift-python-service/message/message_service.py" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/course-edge-service/Dockerfile" />
+        <option value="$PROJECT_DIR$/message-thrift-python-service/Dockerfile" />
+        <option value="$PROJECT_DIR$/message-thrift-python-service/Dockerfile.base" />
+        <option value="$PROJECT_DIR$/user-edge-service/Dockerfile" />
+        <option value="$PROJECT_DIR$/user-thrift-service/Dockerfile" />
+        <option value="$PROJECT_DIR$/api-gateway-zuul/Build.sh" />
+        <option value="$PROJECT_DIR$/api-gateway-zuul/Dockerfile" />
+        <option value="$PROJECT_DIR$/course-dubbo-service/Build.sh" />
+        <option value="$PROJECT_DIR$/course-dubbo-service/Dockerfile" />
+        <option value="$PROJECT_DIR$/course-edge-service/Build.sh" />
+        <option value="$PROJECT_DIR$/message-thrift-python-service/Build.sh" />
+        <option value="$PROJECT_DIR$/message-thrift-python-service/Build_base.sh" />
+        <option value="$PROJECT_DIR$/user-edge-service/Build.sh" />
+        <option value="$PROJECT_DIR$/user-thrift-service/Build.sh" />
+        <option value="$PROJECT_DIR$/user-thrift-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/user-edge-service-client/src/main/java/com/imooc/user/client/LoginFilter.java" />
+        <option value="$PROJECT_DIR$/course-dubbo-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/course-edge-service/src/main/java/com/imooc/course/ServiceApplication.java" />
+        <option value="$PROJECT_DIR$/user-edge-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/course-edge-service/src/main/java/com/imooc/course/controller/CourseController.java" />
+        <option value="$PROJECT_DIR$/course-edge-service/src/main/java/com/imooc/course/filter/CourseFilter.java" />
+        <option value="$PROJECT_DIR$/services.yml" />
+        <option value="$PROJECT_DIR$/course-service.yaml" />
+        <option value="$PROJECT_DIR$/message-service.yaml" />
+        <option value="$PROJECT_DIR$/user-service.yaml" />
+        <option value="$PROJECT_DIR$/api-gateway-zuul/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/course-edge-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/api-gateway.yaml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\Administrator\.m2\repository" />
+        <option name="mavenHome" value="D:/Program Files/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="micro-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="micro-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.7" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="api-gateway-zuul" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="api-gateway-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="api-gateway-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="api-gateway-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="jdk.selected.PYTHON_MODULE" value="Python 2.7" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\imooc\microservice\api-gateway-zuul" />
+      <recent name="C:\Users\Administrator\IdeaProjects\imooc\microservice\course-edge-service" />
+      <recent name="C:\Users\Administrator\IdeaProjects\imooc\microservice\course-dubbo-service" />
+      <recent name="C:\Users\Administrator\IdeaProjects\imooc\microservice\user-edge-service" />
+      <recent name="C:\Users\Administrator\IdeaProjects\imooc\microservice\message-thrift-python-service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.imooc.zuul" />
+      <recent name="com.imooc.course" />
+      <recent name="com.imooc.user" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\imooc\microservice\user-thrift-service-api\thrift" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.user-thrift-service">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="gen-code.sh (1)" type="BashConfigurationType" factoryName="Bash" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="C:\Program Files (x86)\Git\usr\bin\bash.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/user-thrift-service-api/thrift" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/user-thrift-service-api/thrift/gen-code.sh" />
+      <option name="PARAMETERS" value="" />
+      <module name="user-thrift-service-api" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="message_service" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/message-thrift-python-service/message" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="message-thrift-python-service" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/message-thrift-python-service/message/message_service.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="api-gateway-zuul" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.zuul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.zuul.ServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="api-gateway-zuul" />
+      <envs />
+    </configuration>
+    <configuration name="course-dubbo-service" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.course.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.course.ServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="course-dubbo-service" />
+      <envs />
+    </configuration>
+    <configuration name="course-edge-service" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.course.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.course.ServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="course-edge-service" />
+      <envs />
+    </configuration>
+    <configuration name="user-edge-service" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.user.ServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="user-edge-service" />
+      <envs />
+    </configuration>
+    <configuration name="user-thrift-service" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.user.ServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="user-thrift-service" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="course-dubbo-service-api" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="course-dubbo-service-api" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="course-dubbo-service-api" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="course-dubbo-service-api" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="course-dubbo-service-api" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="course-dubbo-service-api" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="course-dubbo-service-api" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="course-dubbo-service-api" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="course-dubbo-service-api" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="course-dubbo-service-api" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.user-thrift-service" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.course-dubbo-service" />
+      <item index="2" class="java.lang.String" itemvalue="Bash.gen-code.sh (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.message_service" />
+      <item index="4" class="java.lang.String" itemvalue="Spring Boot.user-edge-service" />
+      <item index="5" class="java.lang.String" itemvalue="Spring Boot.course-edge-service" />
+      <item index="6" class="java.lang.String" itemvalue="Spring Boot.api-gateway-zuul" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Spring Boot.api-gateway-zuul" />
+        <item index="1" class="java.lang.String" itemvalue="Spring Boot.course-edge-service" />
+        <item index="2" class="java.lang.String" itemvalue="Spring Boot.user-edge-service" />
+        <item index="3" class="java.lang.String" itemvalue="Python.message_service" />
+        <item index="4" class="java.lang.String" itemvalue="Bash.gen-code.sh (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="248a0fdd-a9e9-4fe9-86d9-12fb1f58d770" name="Default" comment="" />
+      <created>1528185868880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528185868880</updated>
+      <workItem from="1528185875007" duration="2771000" />
+      <workItem from="1528248917616" duration="892000" />
+      <workItem from="1528249848775" duration="1253000" />
+      <workItem from="1528251121329" duration="737000" />
+      <workItem from="1528251899160" duration="2423000" />
+      <workItem from="1528254408204" duration="11546000" />
+      <workItem from="1528275285465" duration="427000" />
+      <workItem from="1528275740386" duration="13266000" />
+      <workItem from="1528359929975" duration="27028000" />
+      <workItem from="1528700518839" duration="2494000" />
+      <workItem from="1528703066331" duration="32000" />
+      <workItem from="1528703113337" duration="5000" />
+      <workItem from="1528703718454" duration="40000" />
+      <workItem from="1528704250247" duration="47000" />
+      <workItem from="1528708923614" duration="24155000" />
+      <workItem from="1528851738307" duration="5054000" />
+      <workItem from="1528858359537" duration="2770000" />
+      <workItem from="1528861161602" duration="15012000" />
+      <workItem from="1528941569170" duration="29000" />
+      <workItem from="1528941855704" duration="45554000" />
+      <workItem from="1529995587268" duration="2870000" />
+    </task>
+    <task id="LOCAL-00001" summary="初始版本提交 2018-06-06">
+      <created>1528294719659</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1528294719659</updated>
+    </task>
+    <task id="LOCAL-00002" summary="修改user-thrift-service mapper UserMapper">
+      <created>1528295498196</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1528295498196</updated>
+    </task>
+    <task id="LOCAL-00003" summary="come on ......">
+      <created>1528359715883</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1528359715883</updated>
+    </task>
+    <task id="LOCAL-00004" summary="come on ......">
+      <created>1528364960564</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1528364960564</updated>
+    </task>
+    <task id="LOCAL-00005" summary="come on ......">
+      <created>1528437069800</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1528437069800</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2018-06-08_v1.0">
+      <created>1528451843448</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1528451843448</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2018-06-11_v2.0">
+      <created>1528709025214</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1528709025214</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2018-06-12_course_v1.0">
+      <created>1528770412199</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1528770412199</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2018-06-12_course_v2.0">
+      <created>1528784892548</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1528784892548</updated>
+    </task>
+    <task id="LOCAL-00010" summary="2018-06-12_MicroService_All_Code_v1.0">
+      <created>1528788233145</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1528788233145</updated>
+    </task>
+    <task id="LOCAL-00011" summary="2018-06-12_MicroService_All_Code_v1.0">
+      <created>1528788247229</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1528788247229</updated>
+    </task>
+    <task id="LOCAL-00012" summary="2018-06-13_MicroService_All_Code_v2.0">
+      <created>1528860657342</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1528860657342</updated>
+    </task>
+    <task id="LOCAL-00013" summary="2018-06-13_MicroService_All_Code_v2.0">
+      <created>1528861625457</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1528861625457</updated>
+    </task>
+    <task id="LOCAL-00014" summary="2018-06-13_MicroService_All_Code_v3.0">
+      <created>1528936733477</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1528936733477</updated>
+    </task>
+    <task id="LOCAL-00015" summary="2018-06-14_MicroService_Docker_All_Code_v1.0&#10;microservice Docker化">
+      <created>1528955778387</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1528955778387</updated>
+    </task>
+    <task id="LOCAL-00016" summary="docker_compose edit.">
+      <created>1528959126136</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1528959126136</updated>
+    </task>
+    <task id="LOCAL-00017" summary="将docker镜像推送至harbor私有仓库编写。">
+      <created>1529034203743</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1529034203743</updated>
+    </task>
+    <task id="LOCAL-00018" summary="microservice结合mesos容器编排框架调整配置。">
+      <created>1529400014353</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1529400014353</updated>
+    </task>
+    <task id="LOCAL-00019" summary="microservice结合mesos容器编排框架调整配置,修复courseList数据返回bug。">
+      <created>1529462206676</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1529462206676</updated>
+    </task>
+    <task id="LOCAL-00020" summary="microservice结合swarm容器编排框架调整配置。">
+      <created>1529550216899</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1529550216899</updated>
+    </task>
+    <task id="LOCAL-00021" summary="microservice结合swarm容器编排框架调整配置。。">
+      <created>1529553048630</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1529553048630</updated>
+    </task>
+    <task id="LOCAL-00022" summary="microservice结合swarm容器编排框架调整配置。。">
+      <created>1529556084265</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1529556084265</updated>
+    </task>
+    <task id="LOCAL-00023" summary="microservice结合k8s容器编排框架调整配置。。">
+      <created>1529996610947</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1529996610947</updated>
+    </task>
+    <task id="LOCAL-00024" summary="microservice结合k8s容器编排框架调整配置。。">
+      <created>1529999208383</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1529999208383</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="158405000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44347826" sideWeight="0.51492536" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889125" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914573" sideWeight="0.4978678" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44347826" sideWeight="0.48507464" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914573" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.49573562" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13965885" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32717392" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914573" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始版本提交 2018-06-06" />
+    <MESSAGE value="修改user-thrift-service mapper UserMapper" />
+    <MESSAGE value="come on ......" />
+    <MESSAGE value="2018-06-08_v1.0" />
+    <MESSAGE value="2018-06-11_v2.0" />
+    <MESSAGE value="2018-06-12_course_v1.0" />
+    <MESSAGE value="2018-06-12_course_v2.0" />
+    <MESSAGE value="2018-06-12_MicroService_All_Code_v1.0" />
+    <MESSAGE value="2018-06-13_MicroService_All_Code_v2.0" />
+    <MESSAGE value="2018-06-13_MicroService_All_Code_v3.0" />
+    <MESSAGE value="2018-06-14_MicroService_Docker_All_Code_v1.0&#10;microservice Docker化" />
+    <MESSAGE value="docker_compose edit." />
+    <MESSAGE value="将docker镜像推送至harbor私有仓库编写。" />
+    <MESSAGE value="microservice结合mesos容器编排框架调整配置。" />
+    <MESSAGE value="microservice结合mesos容器编排框架调整配置,修复courseList数据返回bug。" />
+    <MESSAGE value="microservice结合swarm容器编排框架调整配置。" />
+    <MESSAGE value="microservice结合swarm容器编排框架调整配置。。" />
+    <MESSAGE value="microservice结合k8s容器编排框架调整配置。。" />
+    <option name="LAST_COMMIT_MESSAGE" value="microservice结合k8s容器编排框架调整配置。。" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/api-gateway-zuul/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="39" column="32" lean-forward="false" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-thrift-service/src/main/java/com/imooc/user/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-thrift-service/src/main/java/com/imooc/user/thrift/ThriftServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="31" column="57" lean-forward="false" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-thrift-service-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="37" lean-forward="false" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/message-thrift-service-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="10" lean-forward="false" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-thrift-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/message-thrift-python-service/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-edge-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course-dubbo-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-edge-service-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="39" lean-forward="false" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-thrift-service-api/src/main/java/com/imooc/thrift/user/UserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="826" column="75" lean-forward="false" selection-start-line="826" selection-start-column="75" selection-end-line="826" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course-dubbo-service-api/course-dubbo-service-api.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course-edge-service/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course-edge-service/Build.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="69" lean-forward="true" selection-start-line="2" selection-start-column="69" selection-end-line="2" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/message-thrift-python-service/Build_base.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="57" lean-forward="false" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/message-thrift-python-service/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/message-thrift-python-service/Dockerfile.base">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-edge-service/Build.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="63" lean-forward="false" selection-start-line="2" selection-start-column="63" selection-end-line="2" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-edge-service/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-gateway-zuul/Build.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="62" lean-forward="true" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-gateway-zuul/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course-dubbo-service/Build.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course-dubbo-service/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-thrift-service/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/message-thrift-python-service/Build.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-thrift-service/Build.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="58" lean-forward="false" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course-edge-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="41" column="19" lean-forward="false" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course-dubbo-service-api/src/main/java/com/imooc/course/service/ICourseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course-dubbo-service-api/src/main/java/com/imooc/course/dto/CourseDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="46" column="1" lean-forward="false" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course-dubbo-service/src/main/java/com/imooc/course/ServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="62" lean-forward="true" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-gateway-zuul/src/main/java/com/imooc/zuul/ServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="62" lean-forward="true" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
+          <folding>
+            <element signature="e#328#329#0" expanded="false" />
+            <element signature="e#397#398#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course-edge-service/src/main/java/com/imooc/course/controller/CourseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-edge-service/src/main/java/com/imooc/user/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-edge-service/src/main/java/com/imooc/user/ServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#246#247#0" expanded="false" />
+            <element signature="e#315#316#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-edge-service-client/src/main/java/com/imooc/user/client/LoginFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="80" column="50" lean-forward="false" selection-start-line="80" selection-start-column="31" selection-end-line="80" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-thrift-service/src/main/java/com/imooc/user/ServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="62" lean-forward="false" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+          <folding>
+            <element signature="e#247#248#0" expanded="false" />
+            <element signature="e#316#317#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="38" column="18" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="38" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course-service.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="29" lean-forward="false" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/message-service.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="29" lean-forward="false" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-service.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="29" lean-forward="false" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course-dubbo-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/message-thrift-python-service/message/message_service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="46" column="39" lean-forward="false" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course-edge-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-edge-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-thrift-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="57" lean-forward="false" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course-edge-service/src/main/java/com/imooc/course/ServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" column="62" lean-forward="false" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+          <folding>
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course-edge-service/src/main/java/com/imooc/course/filter/CourseFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+          <folding>
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-gateway-zuul/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="51" lean-forward="false" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-gateway.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 2.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>user-thrift-service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.codehaus:jackson-all:1.7.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
