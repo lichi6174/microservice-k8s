@@ -1,6 +1,6 @@
 FROM 192.168.2.192/microservice/openjdk:7-jre
 MAINTAINER xxx xxx@imooc.com
 
-COPY ./user-edge-service-1.0-SNAPSHOT.jar /user-edge-service.jar
+COPY ./target/user-edge-service-1.0-SNAPSHOT.jar /user-edge-service.jar
 
 ENTRYPOINT ["java", "-jar", "/user-edge-service.jar"]
